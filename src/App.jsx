@@ -9,6 +9,9 @@ import ExportarAplicacoes from "./pages/aplicacao-questionario/ExportarAplicacoe
 import ImportarAplicacoes from "./pages/aplicacao-questionario/ImportarAplicacoes";
 import NovaAplicacao from "./pages/aplicacao-questionario/NovaAplicacao";
 
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
 function App() {
   return (
     <Router>
