@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  flex-direction: column; /* ou 'row' se você quiser que o cabeçalho seja ao lado da barra lateral */
+}
+
+.content-wrapper {
+  display: flex;
+  margin-top: 71px; /* Ajuste conforme necessário, deve ser pelo menos a altura do cabeçalho */
+}
